@@ -12,8 +12,10 @@ Release
 
 ### File navigation
 'flutter' directory contains the frontend of the application developed with flutter
+
 'backend' directory contains the backend of the application developed with python
+
 'beta' directory contains temporary files that might be used for further development.
 
 #### Contacts
-E-mail" gyungchaehan@woodstock.ac.in
+E-mail: gyungchaehan@woodstock.ac.in
